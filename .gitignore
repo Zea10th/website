@@ -1,0 +1,8 @@
+#For Netology studying
+#Task 1.2
+__MACOSX/
+tmp/
+*_old
+*_backup
+Thumbs.db
+.DS_Store
